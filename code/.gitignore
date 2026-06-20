@@ -4,6 +4,8 @@
 __pycache__/
 *.pyc
 
+.cache/
+
 output.csv
 
 code/evaluation/predictions_batch*.json
