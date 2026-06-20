@@ -1,0 +1,15 @@
+.env
+*.env
+
+__pycache__/
+*.pyc
+
+output.csv
+
+code/evaluation/predictions_batch*.json
+code/evaluation/evaluation_report.md
+
+.venv/
+venv/
+
+.vscode/

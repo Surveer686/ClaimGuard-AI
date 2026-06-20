@@ -14,6 +14,7 @@ The images are the primary source of truth. The user conversation defines what n
 
 ## What the system should do
 
+
 For each claim, your system should:
 
 - extract the actual damage claim from the conversation

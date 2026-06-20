@@ -1,0 +1,6 @@
+openai>=1.40.0
+google-generativeai>=0.8.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+pillow-heif>=0.16.0
+pillow-avif-plugin>=1.4.0
